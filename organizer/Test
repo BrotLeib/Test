@@ -1,0 +1,11 @@
+def test(**kwargs):
+    x = 10
+    print x
+    pass
+
+test(y=10)
+
+
+
+
+
